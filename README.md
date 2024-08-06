@@ -30,7 +30,7 @@ I'm a web developer and java developer
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
